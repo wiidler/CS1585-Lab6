@@ -1,1 +1,5 @@
 a.out
+triangles
+TrianglePrinter.o
+funcs.o
+main.o
